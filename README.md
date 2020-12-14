@@ -1,3 +1,3 @@
 # vaje_10_UvR
 
-Dodajanje datotek.
+Dodajanje datotek in readme dokumenta.
